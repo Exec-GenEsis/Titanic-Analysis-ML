@@ -26,8 +26,7 @@ This fork expands that foundation by:
 - improving reproducibility
 - refining preprocessing methodology
 - strengthening statistical interpretation
-- improving model transparency and evaluation
-- restructuring the project toward a more professional portfolio-style workflow
+- improving model transparency and evaluation]
 
 An additional goal of this fork is to reduce the “black-box” nature of predictive modeling by emphasizing interpretability alongside predictive performance.
 
@@ -147,7 +146,7 @@ The workflow emphasizes both predictive performance and interpretability rather 
 
 # Current Results
 
-Current iterations of the notebook suggest:
+The latest iteration of the notebook suggests:
 
 - Sex was the strongest predictor of survival
 - Passenger class strongly influenced survival probability
@@ -285,9 +284,6 @@ Planned future refinements may include:
 - notebook-to-script pipeline conversion
 - improved feature selection workflows
 - additional model comparisons
-- calibration analysis
-- SHAP or coefficient-based interpretability analysis
-- expanded reproducibility tooling
 
 Possible repository restructuring:
 
